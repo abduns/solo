@@ -1,8 +1,14 @@
 # Solodun
 
 Project tracking for solo founders, on your Mac. Workspaces for your products, your client work and your own life;
-projects, milestones and tasks; a Week page that drafts your changelog and client updates; quick capture from any app;
-and bots that act as teammates. Everything stays on your Mac.
+projects, milestones and tasks; a Week page that drafts your changelog and client updates; a Calendar with your due
+dates, milestones and dates like renewals; quick capture from any app; and bots that act as teammates.
+
+Your data lives on your Mac. If you turn them on:
+
+- **Sync** keeps Solodun the same on your Macs through your own iCloud. There's no Solodun server: your data goes
+  only to your private iCloud database.
+- **Put Solodun in Calendar** keeps a Solodun calendar in Apple Calendar, so what's due reaches your iPhone and Watch.
 
 ## Download
 
